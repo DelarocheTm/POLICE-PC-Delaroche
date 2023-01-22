@@ -1,0 +1,165 @@
+﻿  ============= Code Pénal V.2.1 (Version Delaroche) | RedSide V6 ===============;0;0;0
+;0;0;0
+★彡彡 Article 1 - Contravention ミミ★;0;0;0
+Absence D'identification Contravention);5500;0;0
+Attroupement illégal (Contravention);1000;0;0
+Combat de rue illégal (Contravention);2500;0;0
+Conduite Dangereuse (Contravention);3000;0;0
+Entrave à la circulation (Contravention);2000;0;0
+Diffamation (Contravention);3000;0;0
+Dégradation de bien Public (Contravention);1500;0;0
+Destruction de bien public (Contravention);2000;0;0
+Excès de vitesse inférieur à 50km/h (Contravention);2000;0;0
+Harcélement (Contravention);25000;0;0
+Injure (Contravention);1500;0;0
+Menace (Contravention);3000;0;0
+Mise en danger de la vie d'autruie (Contravention);3000;0;0
+Outrage à agent (Contravention);2000;0;0
+Outrage à magistrat (Contravention);5000;0;0
+Violences physiques légères (Contravention);2500;0;0
+Circulation zone maritime interdite (Contravention);15000;15;0
+Exhibition d'arme factice (Contravention);1000;0;0
+Fausse Alerte (Contravention);3000;0;0
+Abus de confiance ( Contravention);7000;0;0
+Mendicité (Contravention);1000;0;0
+
+
+★彡彡 Article 2 - (délits mineurs) ミミ★;0;0;0
+
+
+Braquage d'atm (Délits mineurs);7000;10;0
+Braquage de Civil (Délits mineurs);5000;15;0
+Braquage de Supérette (Délits mineurs);10000;15;0
+Conduite sans permis de conduire (Délits mineurs);5000;10;0
+Tentative de corruption (Délits mineurs);10000;15;0
+Diffamation aggravé (Délits mineurs);25000;15;0
+Dissimulation de visage (Délits mineurs);5000;10;0
+Entrave à la justice (Délits mineurs);4500;10;0
+Espionnage (Délits mineurs);20000;20;0
+Exhibition d'arme de catégorie A (Délits mineurs);5000;5;0;0
+Exhibition d'arme de catégorie B (Délits mineurs);10000;10;0
+Exhibition d'arme de catégorie C (Délits mineurs);15000;15;0
+Exhibition d'arme de catégorie D (Délits mineurs);20000;20;0
+Exhibition d'arme de catégorie E (Délits mineurs);25000;25;0
+Exhibition d'arme sur les résaux sociaux (Délits mineurs);10000,15;0
+Falsification de billet (Délits mineurs);125;20;1
+Intrusion (Délits mineurs);7500;10;0
+Menace aggravé (Délits mineurs);10000;15;0
+Organisation d'une course illégal (Délits mineurs);20000;20;0
+Non assistance à personne en danger (Délits mineurs);5000;15;0
+Port du gilet pare balle (Délits mineurs);5000;20;0
+Possession d'argent sale (Délits mineurs);0;20;0
+Possession de Gilet par balle (Délits mineurs);2500;10;0
+Possession de stupéfiant (Délits mineurs);100;15;1
+Possession de stupéfiant aggravé (Délits mineurs);200;30;1
+Possession illégale d'arme de catégorie B (Délits mineurs);15000;15;1
+Possession illégale d'arme de catégorie C (Délits mineurs);20000;20;1
+Possession illégale d'arme de catégorie D (Délits mineurs);25000;25;1
+Possession illégale d'arme de catégorie E (Délits mineurs);30000;30;1
+Production/récolte de stupéfiant (Délits mineurs);20000;20;1
+Provocation à l'usage sur les résaux sociaux (Délits mineurs);10000;10;0
+Refus d'Obtempérer  (Délits mineurs);7500;10;0
+Rétention d'information (Délits mineurs);10000;15;0
+Tentative de prise d'otage (Délits mineurs);15000;10;0
+Tentative de prise d'otage sur agent de l'état (Délits mineurs);25000;20;0
+Excès de vitesse supérieur à 100km/h (Délits mineurs);20000;0;0
+Violences physiques aggravé (Délits mineurs);5000;10;0
+Prise d'otage (Délits mineurs);25000;15;0
+Trouble à l'ordre publique (Délits mineurs);10000;10;0
+Usurpation d'identité (Délits mineurs);10000;15;0
+"Violences physiques légères sur agent de l'état" (Délits mineurs);10000;15;0
+Chantage (Délits mineurs);12500;20;0
+Complicité Prise d'otage (Délits mineurs);13000;15;0
+Entrave aux secours (délits mineurs);10000;15;0
+Outrage à magistrat (délits mineurs);10000;15;0
+Absence D'identification (délits mineurs);20000;15;0
+Fausse alerte aggravé ( délit mineurs);15000;10;0
+Combat de rue illégal (délits mineurs);2500;0;0
+Participation à une course illégale (délits mineurs);4500;0;0
+Excès de vitesse compris entre 50 et 100 km/h (saisie du permis de conduire) (délits mineurs);5000;15;0
+Conduite en état d'ivresse ( délits mineurs);10000;10;0
+Complicité de vol (délits mineurs);10000;15;0
+Conduite sous l'emprise de stupéfiants ( délits mineurs);25000;10;0
+Possession d’objets illégaux ( délits mineurs);10000;15;0
+Refus paiement ( délits mineurs);15000;10;0
+Emeute ( délits mineurs);15000;20;0
+Grabuge  ( délits mineurs);5000;5;0
+Incitation à l'émeute   ( délits mineurs);15000;15;0
+Fausse alerte aggravé   ( délits mineurs);10000;20;0
+
+
+★彡彡 Article 3 - (délits majeurs) ミミ★;0;0;0
+
+Abus de pouvoir (Délits majeurs);20000;30;0
+Achat d'arme illégale (Délits majeurs);20000;20;0
+Altération de preuves (Délits majeurs);30000;30;0
+Association de malfaiteurs (Délits majeurs);25000;20;0
+Braquage de bijouterie (Délits majeurs);15000;25;0
+Braquage de Fleeca (Délits majeurs);20000;30;0
+Braquage de Casino (Délits majeurs);45000;30;0
+Braquage de Galerie d'arts (Délits majeurs);45000;30;0
+Braquage à main armé (Délits majeurs);20000;20;0
+Braquage d'un Bâtiment protégé (Délits majeurs);50000;30;0
+Corruption ou tentative de corruption (Délits majeurs);15000;25;0
+Embuscade (Délits majeurs);15000;15;0
+Extortion (Délits majeurs);0;20;0
+Entrave au secours aggravé (Délits majeurs);8000;20;0
+Faux à une administration (Délits majeurs);30000;30;0
+Falsification de documents (Délits majeurs);10000;15;0
+Incitation au Suicide (Délits majeurs);15000;25;0
+Intrusion aggravé (Délits majeurs);15000;20;0
+Outrage à la cour (Délits majeurs);15000;20;0
+Trafic de stupéfiant (Délits majeurs);20000;25;0
+Trafic de Gilet par balle (Délits majeurs);20000;25;0
+Prise d'otage sur agent de l'état (Délits majeurs);40000;25;0
+Refus de se soumettre à une injonction (Délits majeurs);30000;15;0
+Kidnapping (Délits majeurs);20000;15;0
+Séquestration (Délits majeurs);30000;30;0
+Entative de Meurtre (Délits majeurs);25000;15;0
+Recel (Délits majeurs);15000;20;0
+Violence physique aggravé sur agent de l'état (Délits majeurs);15000;20;0
+Violence physique aggravé sur Magistrat (Délits majeurs);20000;20;0
+Usurpation d'identité d'un agent de l'état ou de la Magistrature (Délits majeurs);50000;30;0
+Evasion / Participation à une évasion (Délits majeurs);35000;30;0
+Escroquerie (délits majeurs) ;10000;15;0
+Vol (Délits majeurs);5000;10;0
+Complicité Prise d'otage (Délits majeurs);13000;15;0
+Abus de pouvoir (Délits majeurs);20000;30;0
+
+
+★彡彡 Article 4 - ( Crimes)ミミ★;0;0;0
+
+Blanchiment (Crimes);75000;60;0
+Appartenir ou être lié à une organisation criminelle (Crimes);50000;40;0
+Braquage de convoie LSPD/BCSO (Crimes);75000;75;0
+Braquage de convoie fédérale (Crimes);100000;90;0
+Braquage de banque (Crimes);50000;60;0
+Fraude fiscale (Crimes);0;0;0
+Homicide involontaire (Crimes);40000;45;0
+Parjure (Crimes);75000;60;0
+Prise d'otage sur magistrat (Crimes);60000;45;0
+Kidnapping sur agent de l'état (Crimes);80000;35;0
+Séquestration sur agent de l'état (Crimes);85000;40;0
+Tentative d'assinnat (Crimes);100000;40;0
+Tentative de meurtre sur magistrat (Crimes);60000;40;0
+Tentative d'assassinat sur agent de l'état (Crimes);130000;60;0
+Tentative de meurtre sur agent de l'état (Crimes);50000;40;0
+Tentive d'assassinat sur magistrat (Crimes);150000;90;0;
+Trafic d'arme de catégorie B, C" (Crimes);80000;45;0;
+Trafic d'arme de catégorie D, E" (Crimes);120000;90;0
+Trafic d'objet illégal de gilet par balle (Crimes);20000;40;0
+
+
+★彡彡 Article 5 - ( Crimes++)ミミ★;0;0;0
+Assassinat ( Crimes++);150000;1440;0
+Assassinat sur agent de l'état ( Crimes++);200000;2880;0
+Assassinat sur magistrat ( Crimes++);300000;4320;0
+Haute trahison ( Crimes++);0;0;0
+Meurtre ( Crimes++);80000;1440;0
+Meurtre sur agent de l'état ( Crimes++);100000;2880;0
+Meurtre sur magistrat ( Crimes++);12000;2880;0
+Complicité de Meutre (CRIME++);180000;7100;0
+Complicité Tentative d'assassinant (CRIME++);180000;4250;0
+Non présentation à un jugement (amende X2),( Crimes++);0;0;0
+Tentative de coup d'état  ( Crimes++);200000;2880;0
+Terrorisme ( Crimes++);100000;1440;0
